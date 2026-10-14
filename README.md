@@ -7,7 +7,9 @@ i-have-autism skill reshapes assistant output for a reader with Asperger autism:
 
 ## Installation
 
-Install the i-have-autism skill from https://github.com/kick-ban-ignore/i-have-autism.
+Use this prompt in your AI/CLI:
+
+'Install the i-have-autism skill from https://github.com/kick-ban-ignore/i-have-autism. Make no mistakes.'
 
 OR
 
