@@ -1,11 +1,15 @@
 # i-have-autism
 
-i-have-autism Skill reshapes assistant output for a reader with Asperger autism: literal language, explicit certainty labels, frozen terminology, complete ranked detail, and a structure that never changes between turns.
+i-have-autism skill reshapes assistant output for a reader with Asperger autism: literal language, explicit certainty labels, frozen terminology, complete ranked detail, and a structure that never changes between turns.
 
 ![alt text](activate_autism.png)
 
 
 ## Installation
+
+Install the i-have-autism skill from https://github.com/kick-ban-ignore/i-have-autism.
+
+OR
 
 Copy the `SKILL.md` into your skills directory, name must stay `i-have-autism`:
 
@@ -16,5 +20,6 @@ Copy the `SKILL.md` into your skills directory, name must stay `i-have-autism`:
 
 
 ## License
+Based on https://github.com/ayghri/i-have-adhd by Ayoub Ghriss 🧠
 
 [MIT](./LICENSE)
